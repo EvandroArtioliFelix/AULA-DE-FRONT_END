@@ -1,0 +1,14 @@
+let aluno, nota, tag, aluno2, nota2;
+aluno = "Astrogildo";
+nota = "9.5";
+aluno2 = "Evandro";
+nota2 = "10";
+tag = "<hr>";
+document.write ("aluno: ",aluno);
+document.write (tag);
+document.write ("nota: ", nota);
+document.write (tag);
+document.write ("aluno: ",aluno2);
+document.write (tag);
+document.write ("nota: ", nota2);
+document.write (tag);
